@@ -95,8 +95,6 @@ CodeRefineX/
 ├── venv/                # Virtual Environment
 └── static/
     └── index.html       # The complete Frontend (Monaco + Terminal UI)
-📸 Screenshots
-(Add screenshots of your UI here: The Editor, The Black Terminal with Input, and the Analysis Panel)
 
 🤝 Contributing
 Contributions are welcome!
