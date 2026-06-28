@@ -88,13 +88,18 @@ Open your browser and navigate to: 👉 http://127.0.0.1:8000
 
 📂 Project Structure
 Plaintext
-CodeRefineX/
-│
-├── main.py              # The complete Backend (FastAPI + WebSocket + AI Logic)
-├── .env                 # API Keys (Not committed to Git)
-├── venv/                # Virtual Environment
-└── static/
-    └── index.html       # The complete Frontend (Monaco + Terminal UI)
+hitesh8995-coderefinex/
+    ├── README.md
+    └── backend/
+        ├── main.py
+        ├── requirements.txt
+        ├── modules/
+        │   ├── __init__.py
+        │   ├── analysis.py
+        │   ├── llm_engine.py
+        │   └── models.py
+        └── static/
+            └── index.html
 
 🤝 Contributing
 Contributions are welcome!
